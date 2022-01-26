@@ -7,7 +7,7 @@ public class numberPetterIncreasingDecreasing {
 public static void main(String[] args) {
 	
 	Scanner s=new Scanner(System.in);
-	System.out.println("Enter no of rows");
+	System.out.println("Enter nos of rows");
 	int row=s.nextInt();
 		
 		for(int i=1;i<=row;i++) {
